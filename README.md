@@ -1,0 +1,1 @@
+My first flask project. I tried to make simple recipe page with html then streamed it with flask. 35. project.
